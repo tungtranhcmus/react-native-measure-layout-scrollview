@@ -1,0 +1,25 @@
+{
+  "name": "react-native-measure-layout-scrollview",
+  "version": "1.0.0",
+  "description": "react-native-measure-layout-scrollview",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tung Tran",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tungtranhcmus/react-native-measure-layout-scrollview"
+  },
+  "bugs": {
+    "url": "https://github.com/tungtranhcmus/react-native-measure-layout-scrollview/issues"
+  },
+  "homepage": "https://github.com/tungtranhcmus/react-native-measure-layout-scrollview",
+  "keywords": [
+    "react-native",
+    "scrollview",
+    "measure",
+    "measure layout"
+  ],
+  "license": "MIT"
+}
